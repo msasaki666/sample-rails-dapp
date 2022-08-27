@@ -36,3 +36,8 @@ docker compose up
 ```
 
 http://localhost:3000/ にアクセス
+
+
+## やったときのメモ
+
+[memo.md](memo.md)
